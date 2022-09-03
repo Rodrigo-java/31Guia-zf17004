@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- ejemplo1.xml  ZF17004 -->
+<?xml-stylesheet href="estilo1b.css" type="text/css"?>
+<fichero>
+<title>Ejemplo 1a de la guia de trabajo 31</title>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+<ficha id="2" fechaingreso="1/9/2022">
+<nombre>Rodrigo</nombre>
+<apellido>Zelaya</apellido>
+<direccion>Nueva calle colonia españa de la santa</direccion>
+<telefono> 7101 1085</telefono>
+<gmamil> ejemplo.com</gmamil>
+<website >  Github</website>
+</ficha>  
+<ficha id="3" fechaingreso="1/9/2022">
+<nombre>Rodrigo</nombre>
+<apellido>Zelaya</apellido>
+<dui > 0102030405-6</dui>
+<isss>  No tengo :´c </isss>
+<afp> Sigo estudiando :´v aunque parece Drdo lo que estoy sacando</afp>
+</ficha>  
+</fichero> 

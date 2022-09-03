@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- ejemplo1.xml  ZF17004 -->
+<?xml-stylesheet href="estilo1a.css" type="text/css"?>
+<fichero>
+<title>Ejemplo 1a de la guia de trabajo 31</title>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+<ficha id="2" fechaingreso="1/9/2022">
+<nombre>Rodrigo</nombre>
+<apellido>Zelaya</apellido>
+<direccion>Nueva calle colonia españa de la santa</direccion>
+<telefono> 7101 1085</telefono>
+<gmamil> ejemplo.com</gmamil>
+<website >  Github</website>
+</ficha>  
+</fichero> 

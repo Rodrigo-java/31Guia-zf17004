@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(223, 169, 220);
+    background-position: center center;
+    text-align: center;
+    color: #f1e87c;
+}
+li{
+    color: blue;
+}

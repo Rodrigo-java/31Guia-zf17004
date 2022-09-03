@@ -1,0 +1,21 @@
+fichero{
+text-align:center;
+background-color:black;
+color:white;
+}
+title{
+ color: red;
+ font-size: 200%;
+}
+ficha {
+display: block;
+}
+nombre, apellido, direccion,telefono,gmamil,website {
+  display: block;
+}
+isss, afp, dui {
+  display: list-item;
+  list-style: disc inside;
+  margin-left: 20px;
+}
+

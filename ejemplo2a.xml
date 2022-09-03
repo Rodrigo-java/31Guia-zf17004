@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- ejemplo2.xml  ZF17004 -->
+<?xml-stylesheet href="estilo2a.css" type="text/css"?>
+<pais nombre="El Salvador">
+
+<moneda>  Colon - Dolar</moneda>
+<ubicacion> Centroamerica </ubicacion>
+<idioma> derivados del latin </idioma>
+
+<departamento id="1" nombre="San Salvador" codArea="020">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+
+<departamento id="2" nombre="Santa Ana" codArea="002">
+<cabecera>Sihuatehuacan</cabecera>
+<habitantes>1,264,091</habitantes>
+<altura>652 MSNM</altura>
+</departamento>
+
+<imagen>a </imagen>
+</pais>

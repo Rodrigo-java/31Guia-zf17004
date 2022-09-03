@@ -1,0 +1,21 @@
+pais {
+    background-color: green;
+}
+
+departamento {
+    display:block;
+    border-style: double;
+} 
+cabecera {
+    color:red;
+    display:inline;
+
+}
+ habitantes {
+     color:yellow;
+     display:inline;
+}
+altura {color:yellow;
+    font-size:10cm; 
+    display:none;
+}

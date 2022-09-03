@@ -1,0 +1,22 @@
+pais{
+text-align:center;
+background-color:black;
+color:white;
+
+}
+pais[nombre]::before{
+content:attr(nombre);
+color: red;
+display: block;
+font-size: 200%;
+}
+departamento[nombre]::before{
+content:attr(nombre);
+color: red;
+}
+departamento ,pais{
+  display: block;
+}
+imagen{
+content: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO3wL75_KA7HczE7XetQky1pySZGF9Gim2Gg&usqp=CAU");
+}
