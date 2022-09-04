@@ -2,7 +2,7 @@
 <!-- ejemplo1.xml  ZF17004 -->
 <?xml-stylesheet href="estilo1b.css" type="text/css"?>
 <fichero>
-<title>Ejemplo 1a de la guia de trabajo 31</title>
+<title>Ejemplo 1b de la guia de trabajo 31</title>
 <ficha id="1" fechaingreso="1/11/2012">
 <nombre>Antonio</nombre>
 <apellido>Barbero</apellido>
